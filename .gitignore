@@ -13,3 +13,4 @@ bin/Debug/ffxivboot.exe
 bin/Debug/ffxivboot.exe.config
 bin/Debug/ffxivboot.pdb
 *.cache
+.vs/ffxivboot/v17/.suo
