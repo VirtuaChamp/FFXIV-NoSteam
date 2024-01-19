@@ -1,0 +1,14 @@
+
+.vs/ffxivboot.csproj.dtbcache.json
+*.vsidx
+.vs/ffxivboot64/v17/.suo
+obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/ffxivboot.csproj.AssemblyReference.cache
+obj/Debug/ffxivboot.csproj.CoreCompileInputs.cache
+obj/Debug/ffxivboot.csproj.FileListAbsolute.txt
+obj/Debug/ffxivboot.exe
+obj/Debug/ffxivboot.pdb
+bin/Debug/ffxivboot.exe
+bin/Debug/ffxivboot.exe.config
+bin/Debug/ffxivboot.pdb
