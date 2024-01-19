@@ -1,8 +1,8 @@
-# FFXIV NoSteam Launcher v1
+# FFXIV NoSteam Launcher v1.01
 
 [![Release](https://img.shields.io/badge/release-v1-blue)](https://github.com/VirtuaChamp/ffxivlauncher/releases/tag/v1)
 
-**Latest Release:** v1 
+**Latest Release:** v1.01
 
 **Release Date:** 19.01.2024
 
