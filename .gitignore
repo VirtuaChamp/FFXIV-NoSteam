@@ -12,3 +12,4 @@ obj/Debug/ffxivboot.pdb
 bin/Debug/ffxivboot.exe
 bin/Debug/ffxivboot.exe.config
 bin/Debug/ffxivboot.pdb
+*.cache
